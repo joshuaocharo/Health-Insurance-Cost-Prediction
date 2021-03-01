@@ -1,0 +1,541 @@
+2021-02-09 12:17:33,723:INFO:Initializing load_model()
+2021-02-09 12:17:33,723:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-09 12:17:33,723:INFO:Initializing load_model()
+2021-02-09 12:17:33,723:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-09 12:17:33,729:INFO:Initializing load_model()
+2021-02-09 12:17:33,729:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-09 12:18:29,596:INFO:Initializing load_model()
+2021-02-09 12:18:29,596:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-09 12:19:44,028:INFO:Initializing predict_model()
+2021-02-09 12:19:44,028:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs',
+                 DFS_Classic(interactions=['multiply'], ml_usecase='regression',
+                             random_state=123, subclass='binary',
+                             target='charges',
+                             top_features_to_pick_percentage=None)),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 BaggingRegressor(base_estimator=GradientBoostingRegressor(random_state=123),
+                                  random_state=123)]]), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-09 12:19:44,028:INFO:Checking exceptions
+2021-02-09 12:19:44,028:INFO:Preloading libraries
+2021-02-09 14:20:01,268:INFO:Initializing load_model()
+2021-02-09 14:20:01,268:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-09 15:37:21,728:INFO:Initializing predict_model()
+2021-02-09 15:37:21,728:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs',
+                 DFS_Classic(interactions=['multiply'], ml_usecase='regression',
+                             random_state=123, subclass='binary',
+                             target='charges',
+                             top_features_to_pick_percentage=None)),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 BaggingRegressor(base_estimator=GradientBoostingRegressor(random_state=123),
+                                  random_state=123)]]), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-09 15:37:21,728:INFO:Checking exceptions
+2021-02-09 15:37:21,728:INFO:Preloading libraries
+2021-02-09 15:39:24,081:INFO:Initializing load_model()
+2021-02-09 15:39:24,081:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-09 15:47:17,974:INFO:Initializing predict_model()
+2021-02-09 15:47:17,974:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs',
+                 DFS_Classic(interactions=['multiply'], ml_usecase='regression',
+                             random_state=123, subclass='binary',
+                             target='charges',
+                             top_features_to_pick_percentage=None)),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 BaggingRegressor(base_estimator=GradientBoostingRegressor(random_state=123),
+                                  random_state=123)]]), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-09 15:47:17,974:INFO:Checking exceptions
+2021-02-09 15:47:17,974:INFO:Preloading libraries
+2021-02-09 15:47:59,433:INFO:Initializing predict_model()
+2021-02-09 15:47:59,433:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs',
+                 DFS_Classic(interactions=['multiply'], ml_usecase='regression',
+                             random_state=123, subclass='binary',
+                             target='charges',
+                             top_features_to_pick_percentage=None)),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 BaggingRegressor(base_estimator=GradientBoostingRegressor(random_state=123),
+                                  random_state=123)]]), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-09 15:47:59,433:INFO:Checking exceptions
+2021-02-09 15:47:59,433:INFO:Preloading libraries
+2021-02-09 15:49:10,177:INFO:Initializing predict_model()
+2021-02-09 15:49:10,177:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs',
+                 DFS_Classic(interactions=['multiply'], ml_usecase='regression',
+                             random_state=123, subclass='binary',
+                             target='charges',
+                             top_features_to_pick_percentage=None)),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 BaggingRegressor(base_estimator=GradientBoostingRegressor(random_state=123),
+                                  random_state=123)]]), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-09 15:49:10,177:INFO:Checking exceptions
+2021-02-09 15:49:10,177:INFO:Preloading libraries
+2021-02-09 15:49:49,992:INFO:Initializing predict_model()
+2021-02-09 15:49:49,992:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs',
+                 DFS_Classic(interactions=['multiply'], ml_usecase='regression',
+                             random_state=123, subclass='binary',
+                             target='charges',
+                             top_features_to_pick_percentage=None)),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 BaggingRegressor(base_estimator=GradientBoostingRegressor(random_state=123),
+                                  random_state=123)]]), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-09 15:49:49,993:INFO:Checking exceptions
+2021-02-09 15:49:49,993:INFO:Preloading libraries
+2021-02-09 16:03:17,755:INFO:Initializing predict_model()
+2021-02-09 16:03:17,756:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs',
+                 DFS_Classic(interactions=['multiply'], ml_usecase='regression',
+                             random_state=123, subclass='binary',
+                             target='charges',
+                             top_features_to_pick_percentage=None)),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 BaggingRegressor(base_estimator=GradientBoostingRegressor(random_state=123),
+                                  random_state=123)]]), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-09 16:03:17,756:INFO:Checking exceptions
+2021-02-09 16:03:17,756:INFO:Preloading libraries
+2021-02-09 16:04:20,489:INFO:Initializing predict_model()
+2021-02-09 16:04:20,489:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs',
+                 DFS_Classic(interactions=['multiply'], ml_usecase='regression',
+                             random_state=123, subclass='binary',
+                             target='charges',
+                             top_features_to_pick_percentage=None)),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 BaggingRegressor(base_estimator=GradientBoostingRegressor(random_state=123),
+                                  random_state=123)]]), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-09 16:04:20,489:INFO:Checking exceptions
+2021-02-09 16:04:20,489:INFO:Preloading libraries
+2021-02-09 16:06:15,449:INFO:Initializing predict_model()
+2021-02-09 16:06:15,449:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs',
+                 DFS_Classic(interactions=['multiply'], ml_usecase='regression',
+                             random_state=123, subclass='binary',
+                             target='charges',
+                             top_features_to_pick_percentage=None)),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 BaggingRegressor(base_estimator=GradientBoostingRegressor(random_state=123),
+                                  random_state=123)]]), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-09 16:06:15,449:INFO:Checking exceptions
+2021-02-09 16:06:15,449:INFO:Preloading libraries
+2021-02-09 17:37:20,032:INFO:Initializing load_model()
+2021-02-09 17:37:20,033:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-09 18:37:19,974:INFO:Initializing load_model()
+2021-02-09 18:37:19,975:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-09 19:19:53,471:INFO:Initializing load_model()
+2021-02-09 19:19:53,472:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-09 19:19:53,474:INFO:Initializing load_model()
+2021-02-09 19:19:53,474:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-09 19:52:31,977:INFO:Initializing predict_model()
+2021-02-09 19:52:31,978:INFO:predict_model(estimator=Pipeline(memory=None,
+         steps=[('dtypes',
+                 DataTypes_Auto_infer(categorical_features=[],
+                                      display_types=True, features_todrop=[],
+                                      id_columns=[], ml_usecase='regression',
+                                      numerical_features=[], target='charges',
+                                      time_features=[])),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy...
+                                                                           min_weight_fraction_leaf=0.0,
+                                                                           n_estimators=100,
+                                                                           n_iter_no_change=None,
+                                                                           presort='deprecated',
+                                                                           random_state=123,
+                                                                           subsample=1.0,
+                                                                           tol=0.0001,
+                                                                           validation_fraction=0.1,
+                                                                           verbose=0,
+                                                                           warm_start=False),
+                                  bootstrap=True, bootstrap_features=False,
+                                  max_features=1.0, max_samples=1.0,
+                                  n_estimators=10, n_jobs=None, oob_score=False,
+                                  random_state=123, verbose=0,
+                                  warm_start=False)]],
+         verbose=False), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-09 19:52:31,978:INFO:Checking exceptions
+2021-02-09 19:52:31,978:INFO:Preloading libraries
+2021-02-10 11:25:26,552:INFO:Initializing load_model()
+2021-02-10 11:25:26,553:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-10 11:44:26,125:INFO:Initializing predict_model()
+2021-02-10 11:44:26,125:INFO:predict_model(estimator=Pipeline(memory=None,
+         steps=[('dtypes',
+                 DataTypes_Auto_infer(categorical_features=[],
+                                      display_types=True, features_todrop=[],
+                                      id_columns=[], ml_usecase='regression',
+                                      numerical_features=[], target='charges',
+                                      time_features=[])),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy...
+                                                                           min_weight_fraction_leaf=0.0,
+                                                                           n_estimators=100,
+                                                                           n_iter_no_change=None,
+                                                                           presort='deprecated',
+                                                                           random_state=123,
+                                                                           subsample=1.0,
+                                                                           tol=0.0001,
+                                                                           validation_fraction=0.1,
+                                                                           verbose=0,
+                                                                           warm_start=False),
+                                  bootstrap=True, bootstrap_features=False,
+                                  max_features=1.0, max_samples=1.0,
+                                  n_estimators=10, n_jobs=None, oob_score=False,
+                                  random_state=123, verbose=0,
+                                  warm_start=False)]],
+         verbose=False), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-10 11:44:26,125:INFO:Checking exceptions
+2021-02-10 11:44:26,125:INFO:Preloading libraries
+2021-02-10 11:58:11,448:INFO:Initializing predict_model()
+2021-02-10 11:58:11,448:INFO:predict_model(estimator=Pipeline(memory=None,
+         steps=[('dtypes',
+                 DataTypes_Auto_infer(categorical_features=[],
+                                      display_types=True, features_todrop=[],
+                                      id_columns=[], ml_usecase='regression',
+                                      numerical_features=[], target='charges',
+                                      time_features=[])),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy...
+                                                                           min_weight_fraction_leaf=0.0,
+                                                                           n_estimators=100,
+                                                                           n_iter_no_change=None,
+                                                                           presort='deprecated',
+                                                                           random_state=123,
+                                                                           subsample=1.0,
+                                                                           tol=0.0001,
+                                                                           validation_fraction=0.1,
+                                                                           verbose=0,
+                                                                           warm_start=False),
+                                  bootstrap=True, bootstrap_features=False,
+                                  max_features=1.0, max_samples=1.0,
+                                  n_estimators=10, n_jobs=None, oob_score=False,
+                                  random_state=123, verbose=0,
+                                  warm_start=False)]],
+         verbose=False), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-10 11:58:11,448:INFO:Checking exceptions
+2021-02-10 11:58:11,448:INFO:Preloading libraries
+2021-02-10 12:05:00,616:INFO:Initializing predict_model()
+2021-02-10 12:05:00,616:INFO:predict_model(estimator=Pipeline(memory=None,
+         steps=[('dtypes',
+                 DataTypes_Auto_infer(categorical_features=[],
+                                      display_types=True, features_todrop=[],
+                                      id_columns=[], ml_usecase='regression',
+                                      numerical_features=[], target='charges',
+                                      time_features=[])),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy...
+                                                                           min_weight_fraction_leaf=0.0,
+                                                                           n_estimators=100,
+                                                                           n_iter_no_change=None,
+                                                                           presort='deprecated',
+                                                                           random_state=123,
+                                                                           subsample=1.0,
+                                                                           tol=0.0001,
+                                                                           validation_fraction=0.1,
+                                                                           verbose=0,
+                                                                           warm_start=False),
+                                  bootstrap=True, bootstrap_features=False,
+                                  max_features=1.0, max_samples=1.0,
+                                  n_estimators=10, n_jobs=None, oob_score=False,
+                                  random_state=123, verbose=0,
+                                  warm_start=False)]],
+         verbose=False), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-10 12:05:00,616:INFO:Checking exceptions
+2021-02-10 12:05:00,616:INFO:Preloading libraries
+2021-02-10 12:45:44,386:INFO:Initializing predict_model()
+2021-02-10 12:45:44,386:INFO:predict_model(estimator=Pipeline(memory=None,
+         steps=[('dtypes',
+                 DataTypes_Auto_infer(categorical_features=[],
+                                      display_types=True, features_todrop=[],
+                                      id_columns=[], ml_usecase='regression',
+                                      numerical_features=[], target='charges',
+                                      time_features=[])),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy...
+                                                                           min_weight_fraction_leaf=0.0,
+                                                                           n_estimators=100,
+                                                                           n_iter_no_change=None,
+                                                                           presort='deprecated',
+                                                                           random_state=123,
+                                                                           subsample=1.0,
+                                                                           tol=0.0001,
+                                                                           validation_fraction=0.1,
+                                                                           verbose=0,
+                                                                           warm_start=False),
+                                  bootstrap=True, bootstrap_features=False,
+                                  max_features=1.0, max_samples=1.0,
+                                  n_estimators=10, n_jobs=None, oob_score=False,
+                                  random_state=123, verbose=0,
+                                  warm_start=False)]],
+         verbose=False), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-10 12:45:44,386:INFO:Checking exceptions
+2021-02-10 12:45:44,387:INFO:Preloading libraries
+2021-02-10 12:46:39,080:INFO:Initializing predict_model()
+2021-02-10 12:46:39,081:INFO:predict_model(estimator=Pipeline(memory=None,
+         steps=[('dtypes',
+                 DataTypes_Auto_infer(categorical_features=[],
+                                      display_types=True, features_todrop=[],
+                                      id_columns=[], ml_usecase='regression',
+                                      numerical_features=[], target='charges',
+                                      time_features=[])),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy...
+                                                                           min_weight_fraction_leaf=0.0,
+                                                                           n_estimators=100,
+                                                                           n_iter_no_change=None,
+                                                                           presort='deprecated',
+                                                                           random_state=123,
+                                                                           subsample=1.0,
+                                                                           tol=0.0001,
+                                                                           validation_fraction=0.1,
+                                                                           verbose=0,
+                                                                           warm_start=False),
+                                  bootstrap=True, bootstrap_features=False,
+                                  max_features=1.0, max_samples=1.0,
+                                  n_estimators=10, n_jobs=None, oob_score=False,
+                                  random_state=123, verbose=0,
+                                  warm_start=False)]],
+         verbose=False), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-10 12:46:39,081:INFO:Checking exceptions
+2021-02-10 12:46:39,081:INFO:Preloading libraries
+2021-02-10 15:08:36,742:INFO:Initializing load_model()
+2021-02-10 15:08:36,743:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-10 15:08:36,743:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-10 15:57:06,012:INFO:Initializing predict_model()
+2021-02-10 15:57:06,012:INFO:predict_model(estimator=Pipeline(memory=None,
+         steps=[('dtypes',
+                 DataTypes_Auto_infer(categorical_features=[],
+                                      display_types=True, features_todrop=[],
+                                      id_columns=[], ml_usecase='regression',
+                                      numerical_features=[], target='charges',
+                                      time_features=[])),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy...
+                                                                           min_weight_fraction_leaf=0.0,
+                                                                           n_estimators=100,
+                                                                           n_iter_no_change=None,
+                                                                           presort='deprecated',
+                                                                           random_state=123,
+                                                                           subsample=1.0,
+                                                                           tol=0.0001,
+                                                                           validation_fraction=0.1,
+                                                                           verbose=0,
+                                                                           warm_start=False),
+                                  bootstrap=True, bootstrap_features=False,
+                                  max_features=1.0, max_samples=1.0,
+                                  n_estimators=10, n_jobs=None, oob_score=False,
+                                  random_state=123, verbose=0,
+                                  warm_start=False)]],
+         verbose=False), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-10 15:57:06,016:INFO:Checking exceptions
+2021-02-10 15:57:06,016:INFO:Preloading libraries
+2021-02-15 16:39:20,817:INFO:Initializing load_model()
+2021-02-15 16:39:20,818:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-15 16:39:20,818:INFO:load_model(model_name=deployment_110620201, platform=None, authentication=None, verbose=True)
+2021-02-15 16:43:32,650:INFO:Initializing predict_model()
+2021-02-15 16:43:32,650:INFO:predict_model(estimator=Pipeline(memory=None,
+         steps=[('dtypes',
+                 DataTypes_Auto_infer(categorical_features=[],
+                                      display_types=True, features_todrop=[],
+                                      id_columns=[], ml_usecase='regression',
+                                      numerical_features=[], target='charges',
+                                      time_features=[])),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy...
+                                                                           min_weight_fraction_leaf=0.0,
+                                                                           n_estimators=100,
+                                                                           n_iter_no_change=None,
+                                                                           presort='deprecated',
+                                                                           random_state=123,
+                                                                           subsample=1.0,
+                                                                           tol=0.0001,
+                                                                           validation_fraction=0.1,
+                                                                           verbose=0,
+                                                                           warm_start=False),
+                                  bootstrap=True, bootstrap_features=False,
+                                  max_features=1.0, max_samples=1.0,
+                                  n_estimators=10, n_jobs=None, oob_score=False,
+                                  random_state=123, verbose=0,
+                                  warm_start=False)]],
+         verbose=False), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-15 16:43:32,650:INFO:Checking exceptions
+2021-02-15 16:43:32,650:INFO:Preloading libraries
+2021-02-15 16:45:58,004:INFO:Initializing predict_model()
+2021-02-15 16:45:58,006:INFO:predict_model(estimator=Pipeline(memory=None,
+         steps=[('dtypes',
+                 DataTypes_Auto_infer(categorical_features=[],
+                                      display_types=True, features_todrop=[],
+                                      id_columns=[], ml_usecase='regression',
+                                      numerical_features=[], target='charges',
+                                      time_features=[])),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy...
+                                                                           min_weight_fraction_leaf=0.0,
+                                                                           n_estimators=100,
+                                                                           n_iter_no_change=None,
+                                                                           presort='deprecated',
+                                                                           random_state=123,
+                                                                           subsample=1.0,
+                                                                           tol=0.0001,
+                                                                           validation_fraction=0.1,
+                                                                           verbose=0,
+                                                                           warm_start=False),
+                                  bootstrap=True, bootstrap_features=False,
+                                  max_features=1.0, max_samples=1.0,
+                                  n_estimators=10, n_jobs=None, oob_score=False,
+                                  random_state=123, verbose=0,
+                                  warm_start=False)]],
+         verbose=False), probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-15 16:45:58,006:INFO:Checking exceptions
+2021-02-15 16:45:58,006:INFO:Preloading libraries
